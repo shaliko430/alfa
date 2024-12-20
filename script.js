@@ -10,3 +10,7 @@
 //   const binary = stringToBinary(text);
   
 //   console.log(`Binary code for "${text}":`, binary);
+
+
+
+sfnamlk;DWEKFMLJASMKD
